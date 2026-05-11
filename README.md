@@ -33,3 +33,14 @@ This dashboard helps users understand IPL trends such as championship winners, r
 
 ## Dashboard
 <img width="1326" height="727" alt="Dashboard_Image" src="https://github.com/user-attachments/assets/7aec3e19-ff7c-48f5-8f02-8614ec3b76bc" />
+
+## Project Insights
+- Royal Challengers Bangalore won the 2025 IPL season.
+- Punjab Kings finished as the runner-up in 2025.
+- Gujarat Titans players dominated both Orange Cap and Purple Cap categories.
+- The dashboard provides season-wise comparison of team performances.
+- Users can analyze total boundaries, centuries, and venue statistics.
+- Interactive filters help in exploring data for different IPL seasons.
+
+## Final Conclusion
+This IPL Analysis dashboard helps cricket fans, analysts, and sports enthusiasts understand historical IPL trends in a simple and interactive way. By using Power BI visualizations, users can quickly identify winning teams, top players, and season performance insights across different years.
